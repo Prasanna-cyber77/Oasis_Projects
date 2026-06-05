@@ -137,18 +137,18 @@ Through these projects, practical experience was gained in:
 
 ---
 
-## 📸 Screenshots
+## 👨‍💻 Developer
 
-Project screenshots can be added inside their respective folders for better project visualization.
+**Prasanna Mate**
 
----
-
-## 📧 Author
-
-### Prasanna Mate
-
-Aspiring Full Stack Developer | Web Development Enthusiast | Cloud Computing Learner
+Computer Science Engineering Student passionate about web development, cloud technologies, and building responsive digital solutions. Focused on developing practical projects that strengthen problem-solving skills and modern development practices.
 
 ---
 
-> "Every project is a step toward mastering development and building impactful digital experiences."
+## 🎯 Repository Purpose
+
+This repository serves as a collection of internship projects demonstrating proficiency in front-end development, responsive design, JavaScript applications, user interface development, and client-side data management.
+
+---
+
+> "Learning by building, improving through practice, and growing with every project."
